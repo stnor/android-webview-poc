@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Nomp</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email_address">Email address</string>
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_create_user">Create user</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_login_failed">Login failed</string>
+
+    <string name="error_code_INVALID_EMAIL_ADDRESS">Invalid email address</string>
+    <string name="error_code_INVALID_PASSWORD">The password needs to be at least four characters</string>
+    <string name="error_code_DUPLICATE_EMAIL">The e-mail address is already registered</string>
+    <string name="error_code_INVALID_DOMAIN_IN_EMAIL">Invalid e-mail address</string>
+    <string name="error_code_DUPLICATE_USERNAME">The username is already in use</string>
+
+    <string name="prompt_delete_user">Delete user</string>
+    <string name="prompt_delete_user_text">Do you want delete the user from this device?</string>
+    <string name="prompt_yes">YES</string>
+    <string name="prompt_cancel">CANCEL</string>
+
+    <string name="text_getting_started">Add a user to get started!</string>
+    <string name="text_terms">By creating an account you accept the <a href="http://nomp.me/about/terms">Terms and conditions</a></string>
+    <string name="i_already_have_a_user">I already have a Nomp account</string>
+    <string name="i_want_to_create_a_new_user">I want to create a Nomp account</string>
+    <string name="add_user">Add user</string>
+    <string name="select_a_user">Select a user</string>
+    <string name="did_you_forget_your_password">Did you <a href="http://nomp.me/reset-password">forget your password?</a></string>
+    <string name="text_or">or</string>
+    <string name="loading_header">Starting Nomp</string>
+    <string name="loading_message">Please wait...</string>
+</resources>

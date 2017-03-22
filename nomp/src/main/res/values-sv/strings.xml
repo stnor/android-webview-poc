@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nomp</string>
+
+    <string name="prompt_email_address">E-postadress</string>
+    <string name="prompt_username">Användarnamn</string>
+    <string name="prompt_password">Lösenord</string>
+    <string name="action_sign_in">Logga in</string>
+    <string name="action_create_user">Skapa användare</string>
+    <string name="error_invalid_email">Felaktig epostadress</string>
+    <string name="error_invalid_password">Lösenordet är för kort</string>
+    <string name="error_incorrect_password">Felaktigt lösenord</string>
+    <string name="error_field_required">Detta fält är obligatoriskt</string>
+
+    <string name="error_code_INVALID_EMAIL_ADDRESS">Felaktig e-postadress</string>
+    <string name="error_code_INVALID_PASSWORD">Lösenordet måste vara minst fyra tecken</string>
+    <string name="error_code_DUPLICATE_EMAIL">E-postadressen har redan ett konto</string>
+    <string name="error_code_INVALID_DOMAIN_IN_EMAIL">Ogiltig e-postadress</string>
+    <string name="error_code_DUPLICATE_USERNAME">Användarnamnet är upptaget</string>
+
+    <string name="error_login_failed">Inloggningen misslyckades</string>
+
+    <string name="prompt_delete_user">Ta bort användaren</string>
+    <string name="prompt_delete_user_text">Vill du ta bort användaren från denna enhet?</string>
+    <string name="prompt_yes">JA</string>
+    <string name="prompt_cancel">AVBRYT</string>
+
+    <string name="text_getting_started">Lägg till en användare för att komma igång!</string>
+    <string name="text_terms">Genom att skapa ett konto accepterar du <a href="http://nomp.se/about/terms">Användaravtalet</a></string>
+    <string name="i_already_have_a_user">Jag har redan en användare på Nomp</string>
+    <string name="i_want_to_create_a_new_user">Jag vill skapa en ny användare</string>
+    <string name="add_user">Lägg till användare</string>
+    <string name="select_a_user">Välj användare</string>
+    <string name="did_you_forget_your_password">Har du <a href="http://nomp.me/reset-password">glömt ditt lösenord?</a></string>
+    <string name="text_or">eller</string>
+    <string name="loading_header">Startar Nomp</string>
+    <string name="loading_message">Vänta en stund...</string>
+</resources>
